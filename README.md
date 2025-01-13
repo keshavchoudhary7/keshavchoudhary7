@@ -4,7 +4,7 @@ I'm a passionate **MERN Stack Developer** with a focus on creating dynamic, real
 
 ## 🚀 About Me
 - 🌱 Currently learning backend development and focusing on **Node.js, Express**, and **real-time features** like chat and voice connections.
-- 💼 As a **Mobile Software Developer** at EnactOn Technologies, I integrate RESTful APIs and focus on optimizing user interfaces for a seamless experience.
+- 💼 As a **Software Developer Intern** at HashedBit Innovation, I integrate RESTful APIs and focus on optimizing user interfaces for a seamless experience.
 - 👨‍💻 I specialize in building full-stack applications using the **MERN Stack** (MongoDB, Express, React, Node.js).
 - 📚 Graduate with an MCA degree, always passionate about learning new technologies and solving complex problems.
 - ⚡ Focused on building high-performance web applications and constantly improving my code quality.
