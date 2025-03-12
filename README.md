@@ -1,6 +1,6 @@
-# Hi, I'm Keshav Kumar Choudhary 👋
+# Hi, I'm Keshav Kumar Choudhary 👋  
 
-I'm a passionate **MERN Stack Developer** with a focus on creating dynamic, real-time web applications. Currently, I'm working on building a **Tic-Tac-Toe Multiplayer Web App** with features like chat and voice connection. I'm always striving to improve my backend skills while creating engaging user experiences.
+I'm a passionate **MERN Stack Developer** with a focus on creating dynamic, real-time web applications. Currently, I'm working on building a **Multiplayer Typing Game** with live competition, chat, and scoring features. I'm always striving to improve my backend skills while creating engaging user experiences.
 
 ## 🚀 About Me
 - 🌱 Currently learning backend development and focusing on **Node.js, Express**, and **real-time features** like chat and voice connections.
@@ -19,8 +19,13 @@ I'm a passionate **MERN Stack Developer** with a focus on creating dynamic, real
 - **Tools**: VS Code, Postman, Docker
 
 ## 🔥 Featured Projects
-### [Tic-Tac-Toe Multiplayer](https://github.com/yourusername/tic-tac-toe-multiplayer)
-Currently developing a real-time multiplayer **Tic-Tac-Toe** game with chat and voice connection features built with **React**, **Node.js**, **Express**, and **Socket.io**. Users will be able to join a game, chat in real time, and communicate via voice.
+### [Multiplayer Typing Game](your-repo-link)  
+Currently developing a real-time **Multiplayer Typing Game** with live competition, chat, and scoring features. Built with **React**, **Node.js**, **Express**, and **Socket.io**, allowing users to compete in typing speed tests, track scores, and communicate in real time.  
+
+
+[YouTube Clone](https://github.com/keshavchoudhary7/ytcloneInternshala)  
+A fully functional **YouTube Clone** built with **MERN** Stack. Supports video uploads, streaming, user authentication, likes, comments, and a recommendation system.  
+
 
 ### [ShoppyGlobe E-commerce Application](https://github.com/keshavchoudhary7/shoppyGlobe/tree/main/e-commerce%20-%20webapp)
 A fully functional e-commerce platform built with **React** and **Node.js**. Includes user authentication, shopping cart, and payment gateway integration.
