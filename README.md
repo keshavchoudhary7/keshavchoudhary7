@@ -19,7 +19,7 @@ I'm a passionate **MERN Stack Developer** with a focus on creating dynamic, real
 - **Tools**: VS Code, Postman, Docker
 
 ## 🔥 Featured Projects
-### [Multiplayer Typing Game](your-repo-link)  
+### [Multiplayer Typing Game](https://github.com/keshavchoudhary7/Typing_Hero)  
 Currently developing a real-time **Multiplayer Typing Game** with live competition, chat, and scoring features. Built with **React**, **Node.js**, **Express**, and **Socket.io**, allowing users to compete in typing speed tests, track scores, and communicate in real time.  
 
 
