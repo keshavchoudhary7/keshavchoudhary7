@@ -1,46 +1,58 @@
 # Hi, I'm Keshav Kumar Choudhary 👋  
 
-I'm a passionate **MERN Stack Developer** with a focus on creating dynamic, real-time web applications. Currently, I'm working on building a **Multiplayer Typing Game** with live competition, chat, and scoring features. I'm always striving to improve my backend skills while creating engaging user experiences.
+I'm a passionate **MERN Stack Developer** focused on building dynamic, real-time web applications.  
+Currently, I'm building a full-featured **Mess Management System** where users can subscribe to meals, order food daily, and communicate with mess admins through in-app audio/video calls. I'm also exploring AI integrations like food recommendations and chatbots to enhance user experience.
 
 ## 🚀 About Me
-- 🌱 Currently learning backend development and focusing on **Node.js, Express**, and **real-time features** like chat and voice connections.
-- 💼 As a **Software Developer** at HashedBit innovation, I integrate RESTful APIs and focus on optimizing user interfaces for a seamless experience.
-- 👨‍💻 I specialize in building full-stack applications using the **MERN Stack** (MongoDB, Express, React, Node.js).
-- 📚 Graduate with an MCA degree, always passionate about learning new technologies and solving complex problems.
-- ⚡ Focused on building high-performance web applications and constantly improving my code quality.
+- 🌱 Currently diving deeper into **backend systems**, **API architecture**, and **AI integrations** in web apps.
+- 💼 Working as a **Software Trainee (Frontend Developer)** at **Csharptek**, where I'm building an **Admin Panel for a Vote Management System (A Social Media Web App)** using modern frontend technologies.
+- 💼 Previously worked at **HashedBit Innovation** as a Software Developer, integrating RESTful APIs and optimizing user interfaces.
+- 👨‍💻 I specialize in full-stack development using the **MERN Stack** (MongoDB, Express, React, Node.js).
+- 📚 MCA graduate with a strong interest in solving real-world problems through technology.
+- ⚡ Passionate about building high-performance applications and continuously improving code quality and system design.
 
 ## 🔧 Technologies & Tools
-- **Languages**: JavaScript (ES6+), TypeScript, HTML5, CSS3
-- **Frontend**: React.js, Redux, Context API, Tailwind CSS, Bootstrap
-- **Backend**: Node.js, Express.js, Socket.io (for real-time chat and voice)
-- **Database**: MongoDB, MySQL,
-- **Version Control**: Git, GitHub
-- **Deployment**: Netlify, Vercel, Heroku
-- **Tools**: VS Code, Postman, Docker
+- **Languages**: JavaScript, HTML5, CSS3  
+- **Frontend**: React.js, Redux, Context API, Tailwind CSS, Bootstrap  
+- **Backend**: Node.js, Express.js, Socket.io, WebRTC  
+- **Database**: MongoDB, MySQL  
+- **Version Control**: Git, GitHub  
+- **Deployment**: Netlify, Vercel, Heroku  
+- **Tools**: VS Code, Postman,   
 
 ## 🔥 Featured Projects
-### [Multiplayer Typing Game](https://github.com/keshavchoudhary7/Typing_Hero)  
-Currently developing a real-time **Multiplayer Typing Game** with live competition, chat, and scoring features. Built with **React**, **Node.js**, **Express**, and **Socket.io**, allowing users to compete in typing speed tests, track scores, and communicate in real time.  
 
+### [Mess Management System](https://github.com/keshavchoudhary7/mess-management-system)  
+A comprehensive **MERN stack** app where users can:
+- View daily/monthly food menus  
+- Order meals on a subscription or daily basis  
+- Make secure payments (Stripe/Razorpay)  
+- Talk to admins via in-app **video/audio calls**  
+- Use **AI features** like chatbots and personalized meal recommendations  
+Includes JWT auth, admin dashboard, WebRTC integration, and scalable REST APIs.
+
+---
 
 ### [YouTube Clone](https://github.com/keshavchoudhary7/ytcloneInternshala)  
-A fully functional **YouTube Clone** built with **MERN** Stack. Supports video uploads, streaming, user authentication, likes, comments, and a recommendation system.  
+A fully functional **YouTube Clone** built with **MERN Stack**. Supports video uploads, streaming, user authentication, likes, comments, and a recommendation system.
 
+### [ShoppyGlobe E-commerce Application](https://github.com/keshavchoudhary7/shoppyGlobe/tree/main/e-commerce%20-%20webapp)  
+A complete e-commerce platform built with **React** and **Node.js**. Features user authentication, shopping cart, and payment gateway integration.
 
-### [ShoppyGlobe E-commerce Application](https://github.com/keshavchoudhary7/shoppyGlobe/tree/main/e-commerce%20-%20webapp)
-A fully functional e-commerce platform built with **React** and **Node.js**. Includes user authentication, shopping cart, and payment gateway integration.
+### [Multiplayer Typing Game](https://github.com/keshavchoudhary7/Typing_Hero)  
+A real-time **Multiplayer Typing Game** with live competition, chat, and scoring. Built using **Socket.io**, **React**, and **Node.js**.
 
-### [Weather App](https://knowyourcityclimate.netlify.app/)
-A weather forecasting application built using **React** with integration to a weather API for accurate forecasting data.
+### [Weather App](https://knowyourcityclimate.netlify.app/)  
+A weather forecasting app using **React** and an external weather API.
 
-### [Task Manager App](https://taskhaven.netlify.app/)
-A MERN stack task management app with features like task creation, deletion, and categorization.
+### [Task Manager App](https://taskhaven.netlify.app/)  
+A **MERN stack** task manager with features like task creation, deletion, and categorization.
 
-### [E-Bookshelf](https://github.com/keshavchoudhary7/e-bookshelf)
-An online bookshelf application built using **React** and **Redux**, allowing users to manage their book collections with CRUD operations.
+### [E-Bookshelf](https://github.com/keshavchoudhary7/e-bookshelf)  
+An online bookshelf app built using **React** and **Redux**, with CRUD operations.
 
-### [CRUDSync](https://github.com/keshavchoudhary7/crudsync)
-A CRUD application built with **React.js**, **Axios**, and a RESTful API to manage data effectively and efficiently.
+### [CRUDSync](https://github.com/keshavchoudhary7/crudsync)  
+A CRUD application using **React.js**, **Axios**, and RESTful API integration.
 
 ## 📈 GitHub Stats
 
