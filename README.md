@@ -22,7 +22,7 @@ Currently, I'm building a full-featured **Mess Management System** where users c
 
 ## 🔥 Featured Projects
 
-### [Mess Management System](https://github.com/keshavchoudhary7/mess-management-system)  
+### [Mess Management System](https://github.com/keshavchoudhary7/Mess_food_Delivery_system)  
 A comprehensive **MERN stack** app where users can:
 - View daily/monthly food menus  
 - Order meals on a subscription or daily basis  
