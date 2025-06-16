@@ -25,10 +25,10 @@ Currently, I'm building a full-featured **Mess Management System** where users c
 ### [Mess Management System](https://github.com/keshavchoudhary7/Mess_food_Delivery_system)  
 A comprehensive **MERN stack** app where users can:
 - View daily/monthly food menus  
-- Order meals on a subscription or daily basis  
-- Make secure payments (Stripe/Razorpay)  
-- Talk to admins via in-app **video/audio calls**  
-- Use **AI features** like chatbots and personalized meal recommendations  
+- Order meals on a subscription or daily basis  (work on progress)
+- Make secure payments (Stripe/Razorpay)  (work in progress)
+- Talk to admins via in-app **video/audio calls**  (work in progress)
+- Use **AI features** like chatbots and personalized meal recommendations  (work in progress)
 Includes JWT auth, admin dashboard, WebRTC integration, and scalable REST APIs.
 
 ---
