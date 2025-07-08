@@ -59,5 +59,5 @@ A CRUD application using **React.js**, **Axios**, and RESTful API integration.
 ![Keshav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=keshavchoudhary7&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ## 📞 Connect with Me
-- LinkedIn: [Keshav's LinkedIn](https://www.linkedin.com/in/keshav/)
+- LinkedIn: [Keshav's LinkedIn](https://www.linkedin.com/in/keshavchoudhary)
 - Email: keshavchoudhary782@gmail.com
