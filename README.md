@@ -5,8 +5,8 @@ Currently, I'm building a full-featured **Mess Management System** where users c
 
 ## 🚀 About Me
 - 🌱 Currently diving deeper into **backend systems**, **API architecture**, and **AI integrations** in web apps.
-- 💼 Working as a **Software Trainee (Frontend Developer)** at **Csharptek**, where I'm building an **Admin Panel for a Vote Management System (A Social Media Web App)** using modern frontend technologies.
-- 💼 Previously worked at **HashedBit Innovation** as a Software Developer, integrating RESTful APIs and optimizing user interfaces.
+- 💼 Working as a **Software Engineer (Fullstack Developer)** at **Csharptek**, where I'm building an **Admin Panel , **webApp for a Vote Management System (Amalgamate)** using modern technologies.
+- 💼 Previously worked at **HashedBit Innovation** as a Software Developer intern, integrating RESTful APIs and optimizing user interfaces.
 - 👨‍💻 I specialize in full-stack development using the **MERN Stack** (MongoDB, Express, React, Node.js).
 - 📚 MCA graduate with a strong interest in solving real-world problems through technology.
 - ⚡ Passionate about building high-performance applications and continuously improving code quality and system design.
@@ -16,8 +16,8 @@ Currently, I'm building a full-featured **Mess Management System** where users c
 - **Frontend**: React.js, Redux, Context API, Tailwind CSS, Bootstrap  
 - **Backend**: Node.js, Express.js, Socket.io, WebRTC  
 - **Database**: MongoDB, MySQL  
-- **Version Control**: Git, GitHub  
-- **Deployment**: Netlify, Vercel, Heroku  
+- **Version Control**: Git, GitHub,  
+- **Deployment**: Netlify, Vercel, Heroku, Azure
 - **Tools**: VS Code, Postman,   
 
 ## 🔥 Featured Projects
