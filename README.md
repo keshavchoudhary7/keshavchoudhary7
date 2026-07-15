@@ -22,6 +22,9 @@ Currently, I'm building a full-featured **Mess Management System** where users c
 
 ## 🔥 Featured Projects
 
+### [Multiplayer Typing Game](https://github.com/keshavchoudhary7/TypingHero)  
+A real-time **Multiplayer Typing Game** with live competition, chat, and scoring. Built using **Socket.io**, **React**, and **Node.js**.
+
 ### [Mess Management System](https://github.com/keshavchoudhary7/Mess_food_Delivery_system)  
 A comprehensive **MERN stack** app where users can:
 - View daily/monthly food menus  
@@ -38,9 +41,6 @@ A fully functional **YouTube Clone** built with **MERN Stack**. Supports video u
 
 ### [ShoppyGlobe E-commerce Application](https://github.com/keshavchoudhary7/shoppyGlobe/tree/main/e-commerce%20-%20webapp)  
 A complete e-commerce platform built with **React** and **Node.js**. Features user authentication, shopping cart, and payment gateway integration.
-
-### [Multiplayer Typing Game](https://github.com/keshavchoudhary7/TypingHero)  
-A real-time **Multiplayer Typing Game** with live competition, chat, and scoring. Built using **Socket.io**, **React**, and **Node.js**.
 
 ### [Weather App](https://knowyourcityclimate.netlify.app/)  
 A weather forecasting app using **React** and an external weather API.
