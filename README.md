@@ -1,177 +1,180 @@
 <div align="center">
 
-# Hi there, I'm Keshav Kumar Choudhary 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:F5C000&height=200&section=header&text=Keshav%20Kumar%20Choudhary&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%2B%20TypeScript%20%7C%20AI-Integrated%20Web%20Apps&descAlignY=58&descSize=18" alt="header" />
 
-### Full-Stack Developer | MERN + TypeScript | AI-Integrated Web Apps
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F5C000&center=true&vCenter=true&width=600&lines=Building+real-time+web+applications;MERN+Stack+%2B+AI+Integrations;WebRTC+%7C+Socket.io+%7C+LLM+APIs;Always+shipping%2C+always+learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F5C000&center=true&vCenter=true&width=650&lines=Building+real-time+web+applications;MERN+Stack+%2B+AI+Integrations;WebRTC+%7C+Socket.io+%7C+LLM+APIs;Shipping+AI+agents+into+production" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshavchoudhary)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keshavchoudhary782@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keshavchoudhary7)
+<a href="https://www.linkedin.com/in/keshavchoudhary"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:keshavchoudhary782@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/keshavchoudhary7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=keshavchoudhary7&style=for-the-badge&color=F5C000&label=PROFILE+VIEWS" alt="profile views" />
 
 </div>
 
----
+<br/>
 
-### 🚀 About Me
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F5C000,100:111111&height=3" />
 
-- 💼 **Fullstack Developer** at **Csharptek** — Building AI powered projects including **Social Media Voting App**, **SAAS SEO & Marketing WebApplication**, **Education Web Application**, **Integrated Ai agents and deployed for AI Assistant Web application**
-- 🍽️ Building **Mess Management System** — a full-featured MERN app with subscription-based food ordering, real-time audio/video calls (WebRTC), and AI-powered recommendations
-- 🌱 Deepening my focus on **backend systems, API architecture, and AI integrations** in production web apps
-- 🤖 Exploring LLM-powered features — chatbots, recommendation engines, and intelligent UX
-- 🏢 Previously interned at **HashedBit Innovations**, integrating RESTful APIs and optimizing UI performance
+## 🚀 About Me
+
+```yaml
+role: Fullstack Developer @ Csharptek
+focus: AI-integrated full-stack systems, real-time apps, scalable APIs
+currently_building:
+  - Social Media Voting App
+  - SaaS SEO & Marketing Web Application
+  - Education Web Application
+  - AI Assistant Web App — integrated & deployed AI agents
+side_project: Mess Management System (MERN + WebRTC + AI recommendations)
+previously: Software Developer Intern @ HashedBit Innovations
+education: MCA Graduate
+mindset: clean code, thoughtful system design, shipping fast
+```
+
+- 💼 Building AI-powered production apps at **Csharptek** — voting platforms, SaaS marketing tools, education apps, and an AI Assistant web app with deployed AI agents
+- 🍽️ Solo-building a **Mess Management System** — subscription food ordering, in-app WebRTC audio/video calls, and AI-powered meal recommendations
+- 🌱 Deepening my focus on **backend systems, API architecture, and LLM integrations**
+- 🤖 Exploring chatbots, recommendation engines, and intelligent UX powered by LLMs
 - 🎓 MCA graduate, passionate about solving real-world problems through clean, scalable engineering
-- ⚡ Focused on high-performance applications, thoughtful system design, and continuous code quality improvement
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F5C000,100:111111&height=3" />
 
-### 🔧 Tech Stack
+## 🔧 Tech Stack
 
 <div align="center">
 
-**Languages & Core**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-**Backend & Real-Time**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
-
-**Database & Cloud**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-
-**Tools & Deployment**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,tailwind,bootstrap,nodejs,express,socketio,mongodb,mysql,azure,git,postman,vercel,netlify,heroku&theme=dark&perline=10" alt="tech stack icons" />
 
 </div>
 
----
+<div align="center">
 
-### 🔥 Featured Projects
+| Layer | Stack |
+|---|---|
+| **Languages** | JavaScript · TypeScript · HTML5 · CSS3 |
+| **Frontend** | React · Redux · Context API · Tailwind CSS · Bootstrap |
+| **Backend / Real-Time** | Node.js · Express.js · Socket.io · WebRTC |
+| **Database** | MongoDB · MySQL |
+| **Cloud / Deployment** | Azure · Vercel · Netlify · Heroku |
+| **Tools** | Git · GitHub · Postman · VS Code |
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F5C000,100:111111&height=3" />
+
+## 🔥 Featured Projects
+
+<div align="center">
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🍽️ [Mess Management System](https://github.com/keshavchoudhary7/Mess_food_Delivery_system)**
-
-MERN app for subscription-based meal ordering with:
+### 🍽️ [Mess Management System](https://github.com/keshavchoudhary7/Mess_food_Delivery_system)
+Subscription-based meal ordering platform
 - Daily/monthly food menus & order tracking
-- JWT authentication + admin dashboard
-- Secure payments (Stripe/Razorpay) — *in progress*
-- In-app audio/video calls via WebRTC — *in progress*
-- AI chatbot + meal recommendations — *in progress*
+- JWT auth + full admin dashboard
+- 🔧 Stripe/Razorpay payments *(in progress)*
+- 🔧 In-app WebRTC audio/video calls *(in progress)*
+- 🔧 AI chatbot + meal recommendations *(in progress)*
+
+`MERN` `WebRTC` `JWT` `AI`
 
 </td>
 <td width="50%" valign="top">
 
-**⌨️ [Multiplayer Typing Game](https://github.com/keshavchoudhary7/TypingHero)**
+### ⌨️ [Multiplayer Typing Game](https://github.com/keshavchoudhary7/TypingHero)
+Real-time competitive typing arena
+- Live multiplayer matches with in-game chat
+- Real-time scoring & leaderboard sync
+- Built entirely on Socket.io
 
-Real-time multiplayer typing competition featuring:
-- Live matches, in-game chat & scoring
-- Built with Socket.io, React & Node.js
-- Real-time leaderboard sync
+`Socket.io` `React` `Node.js`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**📺 [YouTube Clone](https://github.com/keshavchoudhary7/ytcloneInternshala)**
-
-Full-featured video platform clone:
+### 📺 [YouTube Clone](https://github.com/keshavchoudhary7/ytcloneInternshala)
+Full-featured video platform
 - Video upload & streaming
 - Auth, likes, comments
 - Recommendation system
 
+`MERN` `Auth` `Streaming`
+
 </td>
 <td width="50%" valign="top">
 
-**🛒 [ShoppyGlobe E-commerce](https://github.com/keshavchoudhary7/shoppyGlobe/tree/main/e-commerce%20-%20webapp)**
-
-Complete shopping platform:
-- User authentication & cart management
+### 🛒 [ShoppyGlobe E-commerce](https://github.com/keshavchoudhary7/shoppyGlobe/tree/main/e-commerce%20-%20webapp)
+Complete shopping platform
+- Auth & shopping cart management
 - Payment gateway integration
 - React + Node.js architecture
+
+`React` `Node.js` `Payments`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**📚 [E-Bookshelf](https://github.com/keshavchoudhary7/e-bookshelf)**
-
-Online bookshelf manager:
+### 📚 [E-Bookshelf](https://github.com/keshavchoudhary7/e-bookshelf)
+Online bookshelf manager
 - Full CRUD operations
 - React + Redux state management
+
+`React` `Redux` `CRUD`
 
 </td>
 <td width="50%" valign="top">
 
-**✅ [Task Manager – TaskHaven](https://taskhaven.netlify.app/)**
+### ✅ [Task Manager – TaskHaven](https://taskhaven.netlify.app/)
+Clean, categorized task manager
+- Create, categorize & delete tasks
+- Responsive, minimal UI
 
-MERN task manager:
-- Task creation, categorization & deletion
-- Clean, responsive UI
+`MERN` `Productivity`
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-🌤️ **[Weather App](https://knowyourcityclimate.netlify.app/)** — Real-time forecasts via external weather API &nbsp;|&nbsp; 🔄 **[CRUDSync](https://github.com/keshavchoudhary7/crudsync)** — RESTful CRUD app with React & Axios
+🌤️ **[Weather App](https://knowyourcityclimate.netlify.app/)** — real-time forecasts &nbsp;•&nbsp; 🔄 **[CRUDSync](https://github.com/keshavchoudhary7/crudsync)** — RESTful CRUD with React & Axios
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F5C000,100:111111&height=3" />
 
-### 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=keshavchoudhary7&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical&border_radius=10" alt="Keshav's GitHub Stats"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=keshavchoudhary7&theme=radical&border_radius=10" alt="GitHub Streak"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=keshavchoudhary7&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=vision-friendly-dark&border_radius=12&bg_color=0D1117&title_color=F5C000&icon_color=F5C000&text_color=C9D1D9" alt="Keshav's GitHub Stats"/>
+<img height="170" src="https://streak-stats.demolab.com/?user=keshavchoudhary7&theme=dark&border_radius=12&background=0D1117&ring=F5C000&fire=F5C000&currStreakLabel=F5C000" alt="GitHub Streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavchoudhary7&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavchoudhary7&layout=compact&theme=vision-friendly-dark&border_radius=12&bg_color=0D1117&title_color=F5C000&text_color=C9D1D9&hide=jupyter%20notebook" alt="Top Languages" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=keshavchoudhary7&theme=react-dark&bg_color=0D1117&color=F5C000&line=F5C000&point=FFFFFF&hide_border=true" alt="Activity Graph" />
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F5C000,100:111111&height=3" />
 
-### 📞 Connect with Me
+## 📞 Connect with Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-Keshav%20Choudhary-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/keshavchoudhary)
-[![Gmail](https://img.shields.io/badge/-keshavchoudhary782%40gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:keshavchoudhary782@gmail.com)
+<a href="https://www.linkedin.com/in/keshavchoudhary"><img src="https://img.shields.io/badge/-Keshav%20Choudhary-0077B5?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+<a href="mailto:keshavchoudhary782@gmail.com"><img src="https://img.shields.io/badge/-keshavchoudhary782%40gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" /></a>
 
-<br/>
+<br/><br/>
 
 ⭐️ *If you find my work interesting, feel free to explore my repositories and connect!*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:F5C000&height=100&section=footer" />
 
 </div>
