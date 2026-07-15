@@ -18,7 +18,7 @@
 
 ### 🚀 About Me
 
-- 💼 **Fullstack Developer** at **Csharptek** — building an Admin Panel and web app for **Amalgamate**, a Vote Management System
+- 💼 **Fullstack Developer** at **Csharptek** — Building AI powered projects including **Social Media Voting App**, **SAAS SEO & Marketing WebApplication**, **Education Web Application**, **Integrated Ai agents and deployed for AI Assistant Web application**
 - 🍽️ Building **Mess Management System** — a full-featured MERN app with subscription-based food ordering, real-time audio/video calls (WebRTC), and AI-powered recommendations
 - 🌱 Deepening my focus on **backend systems, API architecture, and AI integrations** in production web apps
 - 🤖 Exploring LLM-powered features — chatbots, recommendation engines, and intelligent UX
