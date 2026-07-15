@@ -39,7 +39,7 @@ A fully functional **YouTube Clone** built with **MERN Stack**. Supports video u
 ### [ShoppyGlobe E-commerce Application](https://github.com/keshavchoudhary7/shoppyGlobe/tree/main/e-commerce%20-%20webapp)  
 A complete e-commerce platform built with **React** and **Node.js**. Features user authentication, shopping cart, and payment gateway integration.
 
-### [Multiplayer Typing Game](https://github.com/keshavchoudhary7/Typing_Hero)  
+### [Multiplayer Typing Game](https://github.com/keshavchoudhary7/TypingHero)  
 A real-time **Multiplayer Typing Game** with live competition, chat, and scoring. Built using **Socket.io**, **React**, and **Node.js**.
 
 ### [Weather App](https://knowyourcityclimate.netlify.app/)  
